@@ -1,0 +1,65 @@
+{
+    "Boxer": {
+        "checkpoints": [
+            {
+                "steps": 273132,
+                "file_path": "results\\Boxer1_retrain\\Boxer\\Boxer-273132.onnx",
+                "reward": 241.76681982387197,
+                "creation_time": 1698773471.7339318,
+                "auxillary_file_paths": [
+                    "results\\Boxer1_retrain\\Boxer\\Boxer-273132.pt"
+                ]
+            },
+            {
+                "steps": 274930,
+                "file_path": "results\\Boxer1_retrain\\Boxer\\Boxer-274930.onnx",
+                "reward": 184.5283400217692,
+                "creation_time": 1698773606.4018967,
+                "auxillary_file_paths": [
+                    "results\\Boxer1_retrain\\Boxer\\Boxer-274930.pt"
+                ]
+            },
+            {
+                "steps": 278158,
+                "file_path": "results\\Boxer1_retrain\\Boxer\\Boxer-278158.onnx",
+                "reward": 215.09769474543057,
+                "creation_time": 1698773957.9576333,
+                "auxillary_file_paths": [
+                    "results\\Boxer1_retrain\\Boxer\\Boxer-278158.pt"
+                ]
+            },
+            {
+                "steps": 282040,
+                "file_path": "results\\Boxer1_retrain\\Boxer\\Boxer-282040.onnx",
+                "reward": 351.3125022649765,
+                "creation_time": 1698774068.594386,
+                "auxillary_file_paths": [
+                    "results\\Boxer1_retrain\\Boxer\\Boxer-282040.pt"
+                ]
+            },
+            {
+                "steps": 284266,
+                "file_path": "results\\Boxer1_retrain\\Boxer\\Boxer-284266.onnx",
+                "reward": 399.9980037689209,
+                "creation_time": 1698774148.3585482,
+                "auxillary_file_paths": [
+                    "results\\Boxer1_retrain\\Boxer\\Boxer-284266.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 284266,
+            "file_path": "results\\Boxer1_retrain\\Boxer.onnx",
+            "reward": 399.9980037689209,
+            "creation_time": 1698774148.3585482,
+            "auxillary_file_paths": [
+                "results\\Boxer1_retrain\\Boxer\\Boxer-284266.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.31.0.dev0",
+        "torch_version": "2.0.1+cpu"
+    }
+}

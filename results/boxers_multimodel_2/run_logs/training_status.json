@@ -1,0 +1,51 @@
+{
+    "BoxerRed": {
+        "checkpoints": [
+            {
+                "steps": 93290,
+                "file_path": "results\\boxers_multimodel_2\\BoxerRed\\BoxerRed-93290.onnx",
+                "reward": 565.8049736022949,
+                "creation_time": 1699640650.0648937,
+                "auxillary_file_paths": [
+                    "results\\boxers_multimodel_2\\BoxerRed\\BoxerRed-93290.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 93290,
+            "file_path": "results\\boxers_multimodel_2\\BoxerRed.onnx",
+            "reward": 565.8049736022949,
+            "creation_time": 1699640650.0648937,
+            "auxillary_file_paths": [
+                "results\\boxers_multimodel_2\\BoxerRed\\BoxerRed-93290.pt"
+            ]
+        }
+    },
+    "BoxerBlue": {
+        "checkpoints": [
+            {
+                "steps": 93290,
+                "file_path": "results\\boxers_multimodel_2\\BoxerBlue\\BoxerBlue-93290.onnx",
+                "reward": 551.8299589157104,
+                "creation_time": 1699640650.1726148,
+                "auxillary_file_paths": [
+                    "results\\boxers_multimodel_2\\BoxerBlue\\BoxerBlue-93290.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 93290,
+            "file_path": "results\\boxers_multimodel_2\\BoxerBlue.onnx",
+            "reward": 551.8299589157104,
+            "creation_time": 1699640650.1726148,
+            "auxillary_file_paths": [
+                "results\\boxers_multimodel_2\\BoxerBlue\\BoxerBlue-93290.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.1.0+cpu"
+    }
+}
