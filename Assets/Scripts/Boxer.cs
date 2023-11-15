@@ -72,6 +72,7 @@ public class Boxer : Agent
     [SerializeField] HealthBar m_healthBar;
 
     public TextMeshProUGUI m_Event;
+
     // Start is called before the first frame update
     public void Start()
     {
