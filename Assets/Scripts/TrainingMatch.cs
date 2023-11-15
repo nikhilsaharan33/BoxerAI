@@ -9,12 +9,6 @@ using Unity.MLAgents;
 /// Manages a match between two Boxer agents during training
 /// </summary>
 
-/*
- Changes Done:
- * Added call of OnEpisodeBegin in MatchReset()
- * Removed the part for avoiding ring boundary
- */
-
 public class TrainingMatch : MonoBehaviour
 {
 

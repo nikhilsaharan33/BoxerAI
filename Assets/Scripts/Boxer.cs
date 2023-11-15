@@ -7,14 +7,6 @@ using Unity.MLAgents.Actuators;
 using System.Collections.ObjectModel;
 using TMPro;
 
-
-/*
- Changes Done:
- * Move forward Reward = 0.1f (from 0.45f)
- * Now each punch gets a reward of 0.3f even if its not successful (having a successful punch gets +2f reward on top of it)
- * Added an observation: The opponent's ActionState
- */
-
 public class Boxer : Agent
 {
     public enum AgentColor
